@@ -11,10 +11,15 @@ import com.quran.psm.iqra.NouvelleKhatma;
 
 public class MainActivity extends Activity {
 
+
     private Button creer;
     private Button enCours;
     private Button douaa;
     private Button quitter;
+
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
